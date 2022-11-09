@@ -7,3 +7,5 @@
 - open another cmd and run "curl localhost:3000"
 
 ![](https://github.com/ResuIl/cmdAsciiArt/blob/main/Preview.gif)
+
+Credit: parrot.live
